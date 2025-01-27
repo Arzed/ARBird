@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    Niantic.Lightship.AR.LightshipSettings: {fileID: 11400000, guid: 8bf37820540d3fb41a52128ada86d3e1, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6e381cb60437fd24282ef856fdab4f35, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: d118dd1c4a77d044eb4fd8b919f1e7ac, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ace9b8b2d2c0c6f44bd03b2ca4022010, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 24e5d798fdea1884ebf235519071c4e3, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 380a97d3208a34e47bf70a43bd9f5a0c, type: 2}
